@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aetherborea.eter",
+      "sha256_cert_fingerprints": [
+        "94:50:B5:28:61:1D:81:43:58:FF:EB:98:DF:6D:AB:38:45:2B:43:40:3A:27:C1:85:9B:EC:B4:38:F9:27:A3:FF"
+      ]
+    }
+  }
+]
